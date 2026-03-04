@@ -42,6 +42,15 @@ O projeto foi desenvolvido em duas etapas:
 
 ---
 
+## 🧾 Conclusão
+
+A análise evidencia que a escolaridade é um dos principais determinantes da renda e da inserção no mercado de trabalho no Brasil. 
+Observa-se uma redução consistente da taxa de desemprego conforme o nível educacional aumenta, além de crescimento proporcional da renda média.
+
+Entretanto, os dados também indicam a persistência de desigualdades estruturais relacionadas a gênero e raça, reforçando a complexidade do cenário socioeconômico brasileiro.
+
+---
+
 ## 🖥️ Dashboard Final
 
 ![Dashboard](imagens/dashboard.png)
@@ -70,3 +79,10 @@ PNAD Contínua – Microdados
 - Modelagem preditiva da renda
 - Análise regional mais aprofundada
 - Estudo longitudinal por coorte educacional
+
+---
+
+- ## ⚠ Limitações da Análise
+
+- A renda não foi ajustada pela inflação, podendo influenciar a comparação temporal.
+- A análise considera médias agregadas, não explorando distribuição detalhada.
