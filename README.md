@@ -28,7 +28,7 @@ O projeto foi desenvolvido em duas etapas:
 ### 2️⃣ Visualização e Análise
 - Modelagem dos dados no Power BI
 - Criação de dashboard interativo
-- Aplicação de design minimalista institucional (tema azul IBGE)
+- Aplicação de design institucional
 
 ---
 
