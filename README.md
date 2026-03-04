@@ -1,4 +1,4 @@
-# 📊 Análise Socioeconômica com Dados da PNAD Contínua (IBGE)
+# 📊 Análise Socioeconômica com Dados da Pesquisa Nacional por Amostra de Domicílios Contínua (IBGE)
 
 ## 🎯 Contexto do Projeto
 
